@@ -13,10 +13,19 @@ optional  to check 2
 
 for everyday use
 1. > git status  <!-- to check  -->
-2. > git add . 
+2. > git add . <!-- to add all file on online -->
       or
        git add <file name>
-        eg : git add index.html  <!-- to add all file on online -->
+        eg : git add index.html  
 3. > git commit -m <commit msg>
           eg: git commit -m "commit msg"
 4. > git push
+
+
+to clone others repo
+ > git clone <other url>
+     eg: git clone https://github.com/Himanisah/mern2081
+
+
+    
+     
